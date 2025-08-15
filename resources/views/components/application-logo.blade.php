@@ -1,0 +1,1 @@
+<link rel="icon" href="{{ asset('logo/logo.png') }}" sizes="32x32">
